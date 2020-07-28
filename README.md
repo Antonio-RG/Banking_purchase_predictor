@@ -16,7 +16,7 @@ The competition description is as follows:
 
 Each notebook comprises a step in taken in the process of exploring and building a predictive model. They are intended to be used procedurally, with necessary files saved and uploaded to be used in subsequent notebooks as necessary. The intended sequence of use is as follows:
 
-![Banking Purchase Predictor Project Process](C:\Users\argon\OneDrive\Pictures\Workflow_Process.jpg "Banking Purchase Predictor Workflow")
+![Banking Purchase Predictor Project Process](C:\Users\argon\OneDrive\Pictures\Workflow_Process.JPG "Banking Purchase Predictor Workflow")
 
 Each notebook creates additional directories as needed. The first, called 'input data' holds train and test data unzipped from the main folder, as well as subsequent transformations to that data. The second created folder is called "models" and holds the artifacts of models created in the Modeling stage. The last created folder is called 'Predictions' and holds the final output from the Submission notebook.
 
